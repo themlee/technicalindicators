@@ -1,5 +1,5 @@
 {
-  "name": "technicalindicators",
+  "name": "m3indicators",
   "version": "1.0.22",
   "description": "Techincal Indicators written in javascript",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anandanand84/technicalindicators.git"
+    "url": "git+https://github.com/themlee/technicalindicators.git"
   },
   "keywords": [
     "Technical indicators",
